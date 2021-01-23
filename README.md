@@ -114,4 +114,4 @@ Features:
 
 Please remember, more things will be added.
 
-### \- [Aishi Silverlin](github.com/aishi)
+### \- [Aishi Silverlin](https://github.com/a1shi)
