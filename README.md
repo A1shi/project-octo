@@ -12,7 +12,7 @@ Features:
 - What every ability does
 - What every ability does in specific to items (ex. Main Power Up's effects for Kensa Splattershot)
 - [Builds](#builds)
-- [Map Knowledge](#map_knowledge)
+- [Map Knowledge](#map-knowledge)
 
 Is queryable (1 api call for all the data requested (ex: GRAPHQL) )
 
@@ -30,7 +30,7 @@ Will be the place showing all the knowledge.
 
 Features:
 - [Database](#database) Queryer
-- [Build Analyzer](#build_analyzer) (take [loadout.ink](https://selicia.github.io) as an example (we will just make a better version) )
+- [Build Analyzer](#build-analyzer) (take [loadout.ink](https://selicia.github.io) as an example (we will just make a better version) )
 - [Builds](#builds) (take [this](https://sendou.ink/builds) as an example)
 - [Maps](#maps)
 - [Tournaments](#tournaments)
