@@ -36,7 +36,7 @@ Features:
 - [Tournaments](#tournaments)
 - Dark and Light theme.
 
-(Don't know how it will look yet)
+It will look like an app on a phone, giving the vibe that their Splatoon OC/Character is looking at this website on their phone (except it's an app to them). Website (online) will have a loading animation like it was an app, along with an update bar if we update the website.  The PWA will just use the phone for opening animation, while using the website for updating animation.
 
 ## Build Analyzer
 Will help Octolings and Inklings alike plan their gear.
