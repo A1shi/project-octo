@@ -1,4 +1,4 @@
-# Project Octo
+# Kensaki
 The one place you need to go to in order to learn all the knowledge the Splatoon 2 Researchers have.
 
 
@@ -114,4 +114,4 @@ Features:
 
 Please remember, more things will be added.
 
-### \- [Aishi Silverlin](https://github.com/a1shi)
+### \- [Inkdigo](https://github.com/kensakink)
